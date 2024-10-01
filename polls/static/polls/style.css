@@ -1,0 +1,15 @@
+li a {
+    color: green;
+}
+
+li a:hover {
+    color: rgb(203, 209, 20);
+}
+
+body {
+    background: white url("images/b&w.gif") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
